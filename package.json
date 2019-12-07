@@ -2,7 +2,17 @@
   "name": "v-outside-click",
   "version": "1.0.0",
   "description": "Vue directive, which executes callback passed as value, on body click event, when dynamic argument is `true`, and element, which has directive binded is not in event composed path.",
-  "keywords": "vue.js directive, click event, outside click, body click handler",
+  "keywords": [
+    "vue directive",
+    "click event",
+    "outside click",
+    "body click handler"
+  ],
+  "homepage": "https://github.com/noiff/v-outside-click",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noiff/v-outside-click.git"
+  },
   "main": "index.js",
   "author": "noiff <nff.dev@gmail.com>",
   "license": "MIT"
