@@ -7,4 +7,4 @@ const vOutsideClick = {
 };
 
 export default vOutsideClick;
-export outsideClickDirective;
+export {outsideClickDirective};
