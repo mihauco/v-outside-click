@@ -9,7 +9,6 @@ function bind(el, binding) {
 }
 
 function startListening(el, binding) {
-  console.log(binding);
   if (!el._outsideClickData) {
     el._outsideClickData = {
       observedElement: bodyElement,
