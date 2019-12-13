@@ -1,6 +1,6 @@
 {
   "name": "v-outside-click",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vue directive, which executes callback passed as value, on body click event, when dynamic argument is `true`, and element, which has directive binded is not in event composed path.",
   "keywords": [
     "vue directive",
